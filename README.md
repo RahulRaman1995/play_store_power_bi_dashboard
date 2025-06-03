@@ -65,7 +65,7 @@ The data includes details like:
 * Power BI Dashboarding and Visualization Skill Demonstration
 
 ### Screenshots / demos
-Show what the daashboard looks like. - ![Alt text]()
+Show what the daashboard looks like. - ![Alt text](https://github.com/RahulRaman1995/play_store_power_bi_dashboard/blob/main/play_store.png)
 
 
 
